@@ -17,4 +17,3 @@ class Joueur{
 }
 
 Joueurs = [joueur1, joueur2..] 
-jsdb

@@ -1,8 +1,3 @@
-class Level{
-    QuadTree Rectangle obstacles[];
-    read level;
-}
-
 class QuadTree{
     childs
 }
@@ -22,3 +17,4 @@ class Joueur{
 }
 
 Joueurs = [joueur1, joueur2..] 
+jsdb
